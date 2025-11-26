@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
               Transformando dados hidrológicos em segurança pública através de inteligência artificial e monitoramento IoT avançado.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="w-10 h-10 rounded-full bg-slate-900 flex items-center justify-center text-slate-400 hover:text-white hover:bg-cyan-600 transition-all">
+              <a href="https://github.com/zxfastxz/Redapstyle" className="w-10 h-10 rounded-full bg-slate-900 flex items-center justify-center text-slate-400 hover:text-white hover:bg-cyan-600 transition-all">
                 <Github size={20} />
               </a>
               <a href="#" className="w-10 h-10 rounded-full bg-slate-900 flex items-center justify-center text-slate-400 hover:text-white hover:bg-cyan-600 transition-all">
@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-slate-900 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-slate-600 text-sm">
-            © 2024 REDAP Systems. Todos os direitos reservados.
+            © 2025 REDAP. Todos os direitos reservados.
           </p>
           <div className="flex items-center gap-2">
             <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />

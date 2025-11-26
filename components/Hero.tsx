@@ -53,8 +53,8 @@ const Hero: React.FC = () => {
             className="text-5xl md:text-7xl font-display font-black text-transparent bg-clip-text bg-gradient-to-r from-white via-cyan-200 to-cyan-500 leading-tight neon-text"
           >
             REDAP: <br />
-            INTELIGÊNCIA URBANA <br />
-            CONTRA ALAGAMENTOS
+            PAINEL DE MONITORAMENTO <br />
+            DE ALAGAMENTOS
           </motion.h1>
 
           <motion.p 
