@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
               <span className="text-2xl font-display font-bold text-white">REDAP</span>
             </div>
             <p className="text-slate-400 max-w-sm mb-6">
-              Transformando dados hidrológicos em segurança pública através de inteligência artificial e monitoramento IoT avançado.
+              Transformando dados hidrológicos em segurança pública através de monitoramento IoT avançado.
             </p>
             <div className="flex gap-4">
               <a href="https://github.com/zxfastxz/Redapstyle" className="w-10 h-10 rounded-full bg-slate-900 flex items-center justify-center text-slate-400 hover:text-white hover:bg-cyan-600 transition-all">

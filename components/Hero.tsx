@@ -63,7 +63,7 @@ const Hero: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-lg md:text-xl text-slate-300 max-w-lg border-l-2 border-cyan-500/50 pl-4"
           >
-            O sistema definitivo de previsão e resposta a desastres hidrológicos.
+            O sistema definitivo de resposta a desastres hidrológicos.
             Dados em tempo real. Decisões que salvam vidas.
           </motion.p>
 
@@ -75,7 +75,7 @@ const Hero: React.FC = () => {
           >
             <button className="group relative px-8 py-4 bg-cyan-500/10 border border-cyan-500 text-cyan-400 font-bold uppercase tracking-wider overflow-hidden hover:bg-cyan-500 hover:text-black transition-all duration-300 neon-border clip-path-polygon">
               <span className="relative z-10 flex items-center gap-2">
-                <Play className="w-5 h-5" /> Ver Demonstração
+                <Play className="w-5 h-5" /> Comece Agora
               </span>
               <div className="absolute inset-0 bg-cyan-400/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300" />
             </button>
